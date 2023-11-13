@@ -1,5 +1,0 @@
-package streaming
-
-func subscribe() {
-
-}
